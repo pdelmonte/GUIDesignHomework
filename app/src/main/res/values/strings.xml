@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GUIDesignHomework</string>
+    <string name="passport"><b><u>Passport</u></b></string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="nationality">Nationality...</string>
+    <string name="uecitizen">UE citizen</string>
 </resources>
