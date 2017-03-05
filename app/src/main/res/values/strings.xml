@@ -5,4 +5,7 @@
     <string name="surname">Surname:</string>
     <string name="nationality">Nationality...</string>
     <string name="uecitizen">UE citizen</string>
+    <string name="btn_accept">Accept</string>
+    <string name="btn_apply">Apply</string>
+    <string name="btn_cancel">Cancel</string>
 </resources>
